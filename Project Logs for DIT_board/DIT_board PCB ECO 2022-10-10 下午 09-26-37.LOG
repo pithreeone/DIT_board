@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=V12a Pin=C4-1
+Removed Pin From Net: NetName=PGND1 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=LED3-1
+Removed Pin From Net: NetName=V12b Pin=P3-1
+Removed Pin From Net: NetName=PGND1 Pin=P3-2
+Removed Pin From Net: NetName=PGND2 Pin=P4-2
+Removed Pin From Net: NetName=V12a Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=V12a Pin=U3-5
+Removed Member From Class: ClassName=VoltageRegulator Member=C4
+Removed Member From Class: ClassName=VoltageRegulator Member=C5
+Removed Member From Class: ClassName=VoltageRegulator Member=C6
+Removed Member From Class: ClassName=VoltageRegulator Member=D2
+Removed Member From Class: ClassName=VoltageRegulator Member=L2
+Removed Member From Class: ClassName=VoltageRegulator Member=LED3
+Removed Member From Class: ClassName=VoltageRegulator Member=P3
+Removed Member From Class: ClassName=VoltageRegulator Member=P4
+Removed Member From Class: ClassName=VoltageRegulator Member=R4
+Removed Member From Class: ClassName=VoltageRegulator Member=R5
+Removed Member From Class: ClassName=VoltageRegulator Member=R6
+Removed Member From Class: ClassName=VoltageRegulator Member=R10
+Removed Member From Class: ClassName=VoltageRegulator Member=U3
+Added Room: Name=Communication
+Added Room: Name=Motor
+Added Room: Name=STM32
+Added Room: Name=VoltageRegulator
