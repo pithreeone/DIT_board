@@ -1,0 +1,17 @@
+Added Component: Designator=MotorShield1(Pololu G218V17)
+Added Pin To Net: NetName=PGND1 Pin=MotorShield1-1
+Added Pin To Net: NetName=NetMotorShield1_2 Pin=MotorShield1-2
+Added Pin To Net: NetName=NetMotorShield1_3 Pin=MotorShield1-3
+Added Pin To Net: NetName=PGND1 Pin=MotorShield1-9
+Added Pin To Net: NetName=PGND1 Pin=MotorShield1-10
+Added Pin To Net: NetName=NetMotorShield1_11 Pin=MotorShield1-11
+Added Pin To Net: NetName=NetMotorShield1_11 Pin=MotorShield1-12
+Added Pin To Net: NetName=NetMotorShield1_13 Pin=MotorShield1-13
+Added Pin To Net: NetName=NetMotorShield1_13 Pin=MotorShield1-14
+Added Pin To Net: NetName=VM Pin=MotorShield1-15
+Added Pin To Net: NetName=VM Pin=MotorShield1-16
+Added Member To Class: ClassName=Motor Member=Component MotorShield1 Pololu G2 18v17
+Added Room: Name=Communication
+Added Room: Name=Motor
+Added Room: Name=STM32
+Added Room: Name=VoltageRegulator

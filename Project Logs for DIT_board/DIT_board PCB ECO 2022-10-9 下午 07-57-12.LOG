@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=STM32 Member=Component C10 2.2uF
+Added Member To Class: ClassName=STM32 Member=Component C11 2.2uF
+Added Room: Name=Communication
+Added Room: Name=Motor
+Added Room: Name=STM32
+Added Room: Name=VoltageRegulator

@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=Motor Member=Component MotorShield1 Pololu G2 18v17
+Added Member To Class: ClassName=Motor Member=Component MotorShield2 Pololu G2 18v17
+Added Member To Class: ClassName=Motor Member=Component MotorShield3 Pololu G2 18v17
+Added Member To Class: ClassName=Motor Member=Component MotorShield4 Pololu G2 18v17
+Added Room: Name=Communication
+Added Room: Name=Motor
+Added Room: Name=STM32
+Added Room: Name=VoltageRegulator

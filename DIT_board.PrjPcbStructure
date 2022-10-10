@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Communication.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=Motor.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=STM32.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Communication.SchDoc|FileName=VoltageRegulator.SchDoc|SheetNumber=1

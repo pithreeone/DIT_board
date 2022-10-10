@@ -1,0 +1,85 @@
+Change Component Footprint: Designator=U1 Old Footprint=FP-LQFP144-1A-IPC_A New Footprint=FP-LQFP144-1A-IPC_C
+Change Component Comment : Designator=C29 Old Comment=0.1u New Comment=0.1uF
+Change Component Comment : Designator=C30 Old Comment=0.1u New Comment=0.1uF
+Change Component Comment : Designator=X1 Old Comment=8.000MHz/HC-49SMD New Comment=ABLS-8.000MHZ-B4-T
+Add Component: Footprint Not Found Pololu G218V17
+Add Component: Footprint Not Found Pololu G218V17
+Add Component: Footprint Not Found Pololu G218V17
+Add Component: Footprint Not Found Pololu G218V17
+Added Component: Designator=P18(HDRV2W66P0X254_1X2_762X572X1003P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/0152b3901a0ba380c7a54e62cba96e15.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.03mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "640454-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P19(HDRV2W66P0X254_1X2_762X572X1003P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/0152b3901a0ba380c7a54e62cba96e15.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.03mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "640454-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin MotorShield1-1
+Add Pin To Net: Unknown Pin: Pin MotorShield1-2
+Add Pin To Net: Unknown Pin: Pin MotorShield1-3
+Add Pin To Net: Unknown Pin: Pin MotorShield1-9
+Add Pin To Net: Unknown Pin: Pin MotorShield1-10
+Add Pin To Net: Unknown Pin: Pin MotorShield1-11
+Add Pin To Net: Unknown Pin: Pin MotorShield1-12
+Add Pin To Net: Unknown Pin: Pin MotorShield1-13
+Add Pin To Net: Unknown Pin: Pin MotorShield1-14
+Add Pin To Net: Unknown Pin: Pin MotorShield1-15
+Add Pin To Net: Unknown Pin: Pin MotorShield1-16
+Add Pin To Net: Unknown Pin: Pin MotorShield2-1
+Add Pin To Net: Unknown Pin: Pin MotorShield2-2
+Add Pin To Net: Unknown Pin: Pin MotorShield2-3
+Add Pin To Net: Unknown Pin: Pin MotorShield2-9
+Add Pin To Net: Unknown Pin: Pin MotorShield2-10
+Add Pin To Net: Unknown Pin: Pin MotorShield2-11
+Add Pin To Net: Unknown Pin: Pin MotorShield2-12
+Add Pin To Net: Unknown Pin: Pin MotorShield2-13
+Add Pin To Net: Unknown Pin: Pin MotorShield2-14
+Add Pin To Net: Unknown Pin: Pin MotorShield2-15
+Add Pin To Net: Unknown Pin: Pin MotorShield2-16
+Add Pin To Net: Unknown Pin: Pin MotorShield3-1
+Add Pin To Net: Unknown Pin: Pin MotorShield3-2
+Add Pin To Net: Unknown Pin: Pin MotorShield3-3
+Add Pin To Net: Unknown Pin: Pin MotorShield3-9
+Add Pin To Net: Unknown Pin: Pin MotorShield3-10
+Add Pin To Net: Unknown Pin: Pin MotorShield3-11
+Add Pin To Net: Unknown Pin: Pin MotorShield3-12
+Add Pin To Net: Unknown Pin: Pin MotorShield3-13
+Add Pin To Net: Unknown Pin: Pin MotorShield3-14
+Add Pin To Net: Unknown Pin: Pin MotorShield3-15
+Add Pin To Net: Unknown Pin: Pin MotorShield3-16
+Add Pin To Net: Unknown Pin: Pin MotorShield4-1
+Add Pin To Net: Unknown Pin: Pin MotorShield4-2
+Add Pin To Net: Unknown Pin: Pin MotorShield4-3
+Add Pin To Net: Unknown Pin: Pin MotorShield4-9
+Add Pin To Net: Unknown Pin: Pin MotorShield4-10
+Add Pin To Net: Unknown Pin: Pin MotorShield4-11
+Add Pin To Net: Unknown Pin: Pin MotorShield4-12
+Add Pin To Net: Unknown Pin: Pin MotorShield4-13
+Add Pin To Net: Unknown Pin: Pin MotorShield4-14
+Add Pin To Net: Unknown Pin: Pin MotorShield4-15
+Add Pin To Net: Unknown Pin: Pin MotorShield4-16
+Added Pin To Net: NetName=GND Pin=P18-2
+Added Pin To Net: NetName=GND Pin=P19-2
+Added Pin To Net: NetName=NetP18_1 Pin=P18-1
+Added Pin To Net: NetName=NetP18_1 Pin=R29-1
+Added Pin To Net: NetName=NetP18_1 Pin=U1-89
+Added Net: Name=NetP18_1
+Added Pin To Net: NetName=NetP19_1 Pin=P19-1
+Added Pin To Net: NetName=NetP19_1 Pin=U1-90
+Added Net: Name=NetP19_1
+Add Class Member: Failed to add class member : Component MotorShield1 Pololu G2 18v17
+Add Class Member: Failed to add class member : Component MotorShield2 Pololu G2 18v17
+Add Class Member: Failed to add class member : Component MotorShield3 Pololu G2 18v17
+Add Class Member: Failed to add class member : Component MotorShield4 Pololu G2 18v17
+Added Member To Class: ClassName=Communication Member=Component P18 640454-2
+Added Member To Class: ClassName=Communication Member=Component P19 640454-2
+Added Room: Name=Communication
+Added Room: Name=Motor
+Added Room: Name=STM32
+Added Room: Name=VoltageRegulator
